@@ -2,5 +2,5 @@ belajar megenal pembuatan web
 mengetahuai apa saja yang di butuhkan untuk buint web
 mencoba menulis code dari pertama
 membuat atau membuat databsenya.
-membuat css 
 dan upload ke server github
+mencoba di web
